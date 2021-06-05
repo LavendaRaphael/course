@@ -53,7 +53,7 @@ if (num==5 || num==6) {
     do for [i=1:num] {colo[i]=colors6[i]}
 }
 
-set term pdfcairo font "Arial,25" size 6*1,5*1
+set term pdfcairo font "Arial,25" size 8*1,5*1
 set output outfile
 set xlabel "" offset 0,0
 set ylabel "Energy (eV)" offset 2,0
