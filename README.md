@@ -1,3 +1,4 @@
 # coursecodes
 hello myworld!
-lavendaraphael.github.io/course
+
+<https://lavendaraphael.github.io/course>
